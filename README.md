@@ -1,3 +1,3 @@
-#Mi primer repo platzi
+# Mi primer repo platzi
 
 yujuuuuu
