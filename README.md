@@ -1,3 +1,5 @@
 # Mi primer repo platzi
 
-yujuuuuu
+Mi primer repositorio. Yujuu!
+
+Mi primera contribucion local para Github
